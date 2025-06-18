@@ -1,0 +1,167 @@
+
+{
+	"commands" : "",
+	"description" : "Generated when this file was opened on 2022/01/26 10:48:06.",
+	"label" : "auto base",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\brecp1\\onedrive - bp\\documents 1\\books\\carter hill\\poe5eviews\\mroz.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "U",
+				"_last_update" : [ 733992.4109606481, "08/09/2010 09:51" ],
+				"_name" : "Mroz",
+				"_obj_count" : 27,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "integer",
+						"_name" : "@DATE",
+						"_obs_max" : 753,
+						"_obs_min" : 1,
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "AGE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "EDUC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EXPER",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FAMINC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FATHEREDUC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FEDERALTAX",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HAGE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HEDUC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HFATHEREDUC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HHOURS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HMOTHEREDUC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HOURS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HSIBLINGS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "HWAGE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "KIDS618",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "KIDSL6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LARGECITY",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LFP",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MOTHEREDUC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MTR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SIBLINGS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TAXABLEINC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UNEMPLOYMENT",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "WAGE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "WAGE76",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 753
+			}
+		]
+	}
+}
